@@ -1,1 +1,3 @@
-Notes
+This folder includes one compressed file and an Excel file.
+The Excel file is a summary of the INSPIRE project's detail information of contests and registrants.
+The compressed file include 54 XML files of all the contests involved in the INSPIRE project. Information of Contest_ID, COntest_Name, Registrant, Registrant_ID, Contest_Type, Rating, Reliability, Registration_Date, Submission_Date, Member_Since, and Country is recorded.
