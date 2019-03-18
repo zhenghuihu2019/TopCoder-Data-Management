@@ -1,3 +1,2 @@
 # TopCoder-Data-Management
-TopCoder, Crowdsourcing, Data
-From September, 2003 to October, 2015.
+TopCoder, Crowdsourcing, Data crawled from September, 2003 to October, 2015.
