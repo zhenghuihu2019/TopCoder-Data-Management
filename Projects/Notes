@@ -1,0 +1,2 @@
+This folder includes two Excel files and one subfolder.
+The subfolder is about the INSPIRE project, while the remaining two Excel files are about 62 software crowdsourcing development projects crawled from TopCoder. The number distribution of different contest type for the 62 projects is recorded in the Excel file named Projects. The other Excel file records more detail about the 62 projects, such as keyword, competition name, competition ID, competition type, rewards, numbder of registrants and submissions, submissison scores, reviewers, and so on.
